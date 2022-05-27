@@ -1,0 +1,150 @@
+EX1 - ENGLISH: We will create an array of 30 positions, to store the 30 sales of the month.
+	  And at the end the program will show on the screen which ones and in total how many 
+	  exceed the amount of $2000.
+	  SPANISH: Crearemos un arreglo de 30 posiciones, para almacenar las 30 ventas del mes. 
+      Y al final el programa mostrará en pantalla cuáles y en total cuántas superan 
+      la cantidad de $2000. 
+      
+EX2 - ENGLISH: We will create an array of 5 positions, to store integers, and the program at the end 
+      will tell us which is the largest of those 5.
+      SPANISH: Crearemos un arreglo de 5 posiciones, para almacenar números enteros, y el programa 
+      al finalizar nos dirá cuál es el mayor de esos 5.
+      
+EX3 - ENGLISH: A piece of bread costs $5.
+	  If there are more than 50 pieces were purchased, each piece will cost $4.5
+      If there are more than 100 were purchased, each piece will cost $4.
+      SPANISH: La pieza de pan cuesta a $5.
+	  Si se compraron más de 50 piezas, cada pieza costará a $4.5
+      Si se compraron más de 100, cada pieza costará a $4.
+      
+EX4 - ENGLISH: This program will ask for an indefinite number of numbers, and the moment the user
+      type a zero, it will stop asking for more numbers. At the end it will show the sum of all 
+      the numbers introduced.
+      SPANISH: Este programa pedirá una indefinida cantidad de números, y en el momento en que el usuario 
+      teclee un cero, dejará de pedir más números. Al final mostrará la suma de todos los números 
+      introducidos.
+      
+EX5 - ENGLISH: Using a while loop, we will make this program. We will be asked for an indeterminate 
+      amount of numbers, provided they are only positive. And the program will add those numbers, and
+      you will get your average.
+      SPANISH: Usando un ciclo while, haremos este programa. Se nos pedirán una indeterminada cantidad de 
+      números, con la condición que sólo sean positivos. Y el programa sumará esos números, y 
+      obtendrá su promedio.
+            
+EX6 - ENGLISH: Multiply all odd numbers until you enter 10 odd numbers and do not count 0's.
+	  SPANISH: Multiplica todos los números impares hasta que introduzca 10 números impares y no cuenta 0´s.
+
+EX7 - ENGLISH: We will capture 10 integers, and the program at the end will tell us of those 10 numbers,
+      what is the average of the positives, what was the average of the negatives, and the number of 
+      zeros entered.
+      SPANISH: Capturaremos 10 números enteros, y el programa al final nos dirá de esos 10 números, 
+	  cuál es el promedio de los positivos, cuál fue de los negativos, y la cantidad de ceros ingresados.
+      
+EX8 - ENGLISH: The program will manage invoices of a sugar company, which is responsible for the sale
+      per kilogram; the invoice will ask for the product code, the number of kilos, the price per
+      each kilogram, and the amount of that bill. In addition, for every 5 invoices, it will tell us 
+      which of them exceeded the amount of $1000, and it will give us the total billing of those 5 bills.
+      SPANISH: El programa es para gestionar facturas de una empresa azucarera, que se encarga de la venta 
+      por kilos; la factura pedirá el código del producto, la cantidad de kilos, el precio por 
+      cada kilo, y el importe de esa factura. Además, por cada 5 facturas, nos dirá cuál de ellas 
+      sobrepasó la cantidad de $1000, y nos dará la facturación total de esas 5 facturas.
+      
+EX9 - ENGLISH: The program will ask us for 6 grades to enter, and at the end it will tell us how many 
+      students passed, how many had an "excellent" rating, and how many failed.
+      SPANISH: El programa nos pedirá 6 calificaciones a introducir, y al final nos dirá cuántos alumnos 
+      aprobaron, cuántos tuvieron calificación de "excelencia", y cuántos reprobaron.
+      
+EX10- ENGLISH: The program will ask to choose the amount of salaries, and then we introduce them with 
+      the keyboard. At the end it will show on the screen which salary is the highest.
+      SPANISH: El programa pedirá elegir la cantidad de sueldos, y después los introducimos con el 
+      teclado. Al final mostrará en pantalla cuál sueldo es el mayor.
+      
+EX11- ENGLISH: We will be capturing the control number and qualification of each student, out of a total 
+	  of 5 students. The program will show us on the screen which ones have failed.
+	  SPANISH: Iremos capturando el número de control y calificación de cada alumno, de un total de 5 
+	  alumnos. El programa nos irá mostrando en pantalla cuáles han reprobado.
+    
+EX12- ENGLISH: The program asks us to enter 5 integers, and at the end, it will show them upside down.
+	  SPANISH: El programa nos pide introducir 5 números enteros, y al final, los mostrará al revés.
+
+EX13- ENGLISH: We will create an array of 10 positions, which we will fill with 10 integers.
+      At the moment of printing that array, we will do it with the following order in the numbers:
+      first, last, second, penultimate, third.
+	  SPANISH: Crearemos un arreglo de 10 posiciones, el cual llenaremos con 10 números enteros. 
+      Al momento de imprimir ese arreglo, lo haremos con el siguiente orden en los números : 
+      primero, último, segundo, penúltimo, tercero.
+      
+EX14- ENGLISH: We will create two arrays, "a" and "b", and store 10 numbers in each. Subsequently,
+      in a third array "c", we will store the numbers from array "a" and array "b", in
+      this order: The first from a, the first from b, the second from a, the second from b,
+      the third from a, the third from b, etc.
+	  SPANISH: Crearemos dos arrays, "a" y "b", y almacenaremos 10 números en cada uno. Posteriormente, 
+      en un tercer arreglo "c", guardaremos los números del arreglo "a" y el arreglo "b", en 
+      este orden: El primero de a, el primero de b, el segundo de a, el segundo de b, 
+      el tercero de a, el tercero de b, etc.
+      
+EX15- ENGLISH: Another exercise using arrays. We will fill two arrays, A and B, with 12 integers
+      each. And we will put those numbers in a third array C, but in a special way:
+      3 numbers from A, then 3 numbers from B. Then another 3 numbers from A,
+      then another 3 numbers of B... etc.
+	  SPANISH: Otro ejercicio usando arreglos. Rellenaremos dos arreglos, A y B, con 12 números enteros 
+      cada uno. Y pondremos en un tercer arreglo C esos números, pero de manera especial: 
+      3 números de A, luego 3 números de B. Luego, otros 3 números de A, 
+      luego otros 3 números de B... etc.
+      
+EX16- ENGLISH: We will create an array of 10 positions, where we will store 10 integers, and
+	  subsequently, we will move each number one position forward.
+	  SPANISH: Crearemos un arreglo de 10 posiciones, donde almacenaremos 10 números enteros,y 
+	  posteriormente, desplazaremos cada número una posición adelante.
+      
+EX17- ENGLISH: We will enter 5 integers in an array of size 10, ordered and in a way
+	  growing. Later, we will enter a number, and it will be inserted in the appropriate place,
+	  for the array to continue ordered, numbers from smallest to largest.
+      SPANISH: Ingresaremos 5 números enteros en un arreglo de tamaño de 10, ordenados y de manera 
+	  creciente. Posteriormente, ingresaremos un número, y éste se insertará en el lugar adecuado, 
+	  para que el arreglo continúe ordenado, números de menor a mayor.
+
+EX18- ENGLISH: The program will ask us for the number of pieces, and the price per piece. If 100 were 
+	  bought or more pieces, a 20% discount will be applied. We will create a method that tells us 
+	  how much it will be the total to pay.
+ 	  SPANISH: El programa nos pedirá el número de piezas, y el precio por pieza. Si se compraron 100
+ 	  o más piezas, se aplicará un descuento del 20%. Crearemos un método que nos diga cuánto será 
+ 	  el total a pagar.
+
+EX19- ENGLISH: Program that calculates the cost of parking in a parking lot.
+	  The first 3 hours will be charged at 20 pesos. The following after 3 hours,
+	  at 15 pesos. Until reaching the top of 250 pesos, for 24 hours.
+	  If you remain parked for more than one day, 250 pesos per day will be charged.
+	  And 15 pesos the following hours.
+	  The user will be prompted to enter the number of hours, and should get the price. Use methods.
+	  SPANISH: Programa que calcule el costo del estacionamiento en un parking. 
+	  Las primeras 3 horas se cobrarán a 20 pesos. Las siguientes después de las 3 horas, 
+	  a 15 pesos. Hasta llegar al tope de 250 pesos, para 24 horas.
+	  Si se permanece aparcado por más de un día, se cobrarán 250 pesos por día. 
+	  Y 15 pesos las horas siguientes. 
+	  Se le pedirá al usuario ingresar la cantidad de horas, y debe obtener el precio. Usar métodos.
+
+
+
+EXCERCISE 1 MOCK TEST - ENGLISH: Given two parallel arrays, one of them containing names of persons and 
+the other containing their corresponding heights(in feet), arrange the persons in descending order of 
+their heights and print the names. Both the arrays are of equal size (N) having unique elements.
+Reading from standard input is already given and print the output to the standard output stream.
+Input format:
+First-line contains the array size ‘N’. Second-line contains the name of the persons separated by a 
+comma and the third line contains the height of the respective persons separated by a comma.
+Output format:
+Print the comma-separated person names depending on the descending order of their heights.
+SPANISH: Dadas dos matrices paralelas, una de ellas contiene nombres de personas 
+y la otra que contengan sus alturas correspondientes (pies), ordene a las personas en orden descendente 
+de su alturas e imprimir los nombres. Ambas matrices son del mismo tamaño (N) y tienen elementos únicos.
+La lectura de la entrada estándar ya está dada e imprime la salida en el flujo de salida estándar.
+Formato de entrada:
+La primera línea contiene el tamaño de matriz 'N'. La segunda línea contiene el nombre de las personas separadas por un
+coma y la tercera línea contiene la altura de las respectivas personas separadas por una coma.
+Formato de salida:
+Escriba los nombres de las personas separados por comas según el orden descendente de sus alturas.
+	
+
+        
+
